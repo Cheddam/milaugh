@@ -5,7 +5,7 @@
 
 [resource]
 script = ExtResource("1_nqqvr")
-name = "Whistle"
+name = "Red Whistle"
 description = "Once used to referee sporting events. Still used today if one wishes to seem important."
 icon = ExtResource("1_gkl8u")
 pitch = 1
